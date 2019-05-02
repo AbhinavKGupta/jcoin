@@ -1,0 +1,2 @@
+amt,ggt,date,prs,unq
+50,0,2019-03-30 11:35:47.909848satoshi,0

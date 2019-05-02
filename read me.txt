@@ -1,0 +1,16 @@
+miner_auto:
+	background runner to check for confirmations
+miner: 
+	for manually
+
+interfacer.bat:
+ gui
+ contains : index_gui.py	:login interface
+            users.py		:users interface
+
+request.txt: global ledger
+request1.txt:temp file
+<user_name>.txt: personal ledger
+
+account.txt	:stores username+password
+

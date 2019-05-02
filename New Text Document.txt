@@ -1,0 +1,6 @@
+import pandas as pd
+
+class miner:
+    def mine():
+        csv=pd.read_csv("request.txt")
+        data=csv[['        
